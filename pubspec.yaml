@@ -1,0 +1,45 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  country_pickers: ^2.0.0
+  cupertino_icons: ^1.0.8
+  device_preview: ^1.1.0
+  file_picker: ^8.0.3
+  flutter:
+    sdk: flutter
+  flutter_image_compress: ^2.3.0
+  image: ^4.1.7
+  image_picker: ^1.1.1
+  page_transition: ^2.1.0
+  path: ^1.9.0
+  url_launcher: ^6.2.6
+  vm_service: ^13.0.0
+
+dev_dependencies:
+  flutter_lints: ^3.0.0
+  flutter_test:
+    sdk: flutter
+  http: ^0.13.3
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/hard-work.png
+    - images/logo.png
+    - images/BK.jpg
+    - images/JJ.jpg
+    - images/ii.jpg
+    - images/pkpk.png
+    - images/ii.jpg
+    - images/BBF.jpg
+    - images/BBK.jpg
+    - images/BBJ.jpg
+    - images/BCK.png
+    - images/inttro.png
